@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="home">#1194AA</color>
+    <color name="like">#C9379D</color>
+    <color name="notification">#AE7E0F</color>
+    <color name="profile">#5B37B7</color>
+
+    <color name="home_20">#1194AA</color>
+    <color name="like_20">#1194AA</color>
+    <color name="notification_20">#1194AA</color>
+    <color name="profile_20">#1194AA</color>
+</resources>
